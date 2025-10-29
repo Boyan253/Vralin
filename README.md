@@ -160,7 +160,7 @@ Instagram clean architecture using Flutter and Firebase ( frontend & backend ) w
 #### 2. Clone the repo
 
 ```sh
-$ git clone https://github.com/AhmedAbdoElhawary/flutter-clean-architecture-instagram
+$ git clone https://github.com/Boyan253/Vrlin
 $ cd flutter-clean-architecture-instagram/
 ```
 
@@ -354,5 +354,6 @@ $ cd flutter-clean-architecture-instagram/
 3. Make required changes and commit (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create a new Pull Request
+
 
 
