@@ -4,8 +4,6 @@ Instagram clean architecture using Flutter and Firebase ( frontend & backend ) w
 
 ## If you want to work with me, you can find me here:
 
-- <a href="https://www.linkedin.com/in/ahmedabdoelhawary"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"></a>
-
 ### Notes 
 * I didn't publish the keys such as messaging, agora, firebase web, or even google-services.json. So follow the steps (3. Setup the app) to add them.
 * Right now, I am working on cleaning up the code and web version
@@ -16,8 +14,6 @@ Instagram clean architecture using Flutter and Firebase ( frontend & backend ) w
   * Arabic & English language
   * Dark & Light theme 
 
-* Custom gallery & camera & video display like Instagram "my package" [image picker plus ](https://github.com/AhmedAbdoElhawary/image_picker_plus.git)
- <a href="https://pub.dev/packages/image_picker_plus"><img src="https://img.shields.io/pub/v/image_picker_plus.svg" width="80"></a>
 
 
 * Post features
@@ -358,4 +354,5 @@ $ cd flutter-clean-architecture-instagram/
 3. Make required changes and commit (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create a new Pull Request
+
 
